@@ -1,8 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-//msg.senderはこのコントラクトをデプロイした人,関数を呼びたした人。
-
 
 contract ERC20 {
     string public name;
